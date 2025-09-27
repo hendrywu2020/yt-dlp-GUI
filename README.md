@@ -6,7 +6,7 @@
 
 ![应用截图]<img width="1196" height="940" alt="PixPin_2025-09-27_15-29-48" src="https://github.com/user-attachments/assets/e6fc8255-75c6-4d09-96aa-66930aa99daf" />
 
-*(请将上方截图替换为您自己程序的截图)*
+
 
 ---
 
