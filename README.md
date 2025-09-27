@@ -4,7 +4,8 @@
 
 一款简洁、强大、专为桌面用户设计的 YouTube 媒体下载工具。基于 Python、yt-dlp 核心和 CustomTkinter 现代图形库构建。
 
-![应用截图](https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/path/to/your/screenshot.png)
+![应用截图]<img width="1196" height="940" alt="PixPin_2025-09-27_15-29-48" src="https://github.com/user-attachments/assets/e6fc8255-75c6-4d09-96aa-66930aa99daf" />
+
 *(请将上方截图替换为您自己程序的截图)*
 
 ---
@@ -43,7 +44,7 @@
     yt-dlp
     customtkinter
     ```
-<img width="1196" height="940" alt="PixPin_2025-09-27_15-29-48" src="https://github.com/user-attachments/assets/9c2ca24a-ce59-448e-bb86-88c8b02dc66a" />
+
 
 3.  **运行主程序**
     ```bash
